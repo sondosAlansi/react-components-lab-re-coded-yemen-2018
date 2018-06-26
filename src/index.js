@@ -73,7 +73,6 @@ ReactDOM.render(<App />, document.getElementById('root'))
 
 
 
-
 // For tests only
 export {
   OlderCoaster,
